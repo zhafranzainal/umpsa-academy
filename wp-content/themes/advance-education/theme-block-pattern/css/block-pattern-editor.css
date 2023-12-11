@@ -1,0 +1,34 @@
+.banner-section ,.service-section {
+    height: auto;
+    width: auto;
+}
+.banner-section img, .courses-section img {
+    width: 100% !important;
+}
+.banner-section-btn, .course-box-btn {
+    font-weight: bold;
+}
+.banner-section-btn:hover .wp-block-button__link {
+    border: 2px solid #cc3333;
+    color: #cc3333 !important;
+    background: transparent !important;
+}
+.courses-section h2::before {
+    content: "\f02d";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    padding: 11px;
+    color:#cc3333;
+    font-size: 38px;
+}
+.course-content-box {
+    border-right: 2px solid #cc3333;
+    font-size: 1em;
+}
+.course-content-box .title-box{
+    bottom: 0.4em;
+    border-right: 2px solid #cc3333;
+}
+.course-box-btn {
+    border: 2px solid #cc3333;
+}

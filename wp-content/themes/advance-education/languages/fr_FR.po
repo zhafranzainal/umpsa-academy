@@ -1,0 +1,972 @@
+# <!=Copyright (C) 2019 Themeshopy
+# This file is distributed under the GNU General Public License.=!>
+msgid ""
+msgstr ""
+"Project-Id-Version: Advance Education 0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2022-04-01 10:53+0530\n"
+"Language-Team: \n"
+"X-Poedit-KeywordsList: __;_e;_x:1,2c;_ex:1,2c;_n:1,2;_nx:1,2,4c;_n_noop:1,2;"
+"_nx_noop:1,2,3c;esc_attr__;esc_html__;esc_attr_e;esc_html_e;esc_attr_x:1,2c;"
+"esc_html_x:1,2c\n"
+"Plural-Forms: nplurals=2; plural=(n > 1);\n"
+"X-Generator: Poedit 2.3\n"
+"POT-Creation-Date: \n"
+"Last-Translator: \n"
+"Language: fr\n"
+"X-Poedit-SearchPath-0: ../../advance-education\n"
+
+#: 404.php:13 customizer.php:1178
+msgid "404 Not Found"
+msgstr "404 introuvable"
+
+#: 404.php:14 customizer.php:1188
+msgid ""
+"Looks like you have taken a wrong turn&hellip. Dont worry&hellip it happens "
+"to the best of us."
+msgstr ""
+"On dirait que vous avez pris un mauvais virage Ne vous inquiétez pas et bon "
+"sang, cela arrive au meilleur d'entre nous."
+
+#: 404.php:17 customizer.php:1198
+msgid "Back to Home Page"
+msgstr "Retour à la page d'accueil"
+
+#: archive.php:38 archive.php:67 archive.php:98 archive.php:134 archive.php:166
+#: image.php:38 image.php:66 image.php:96 image.php:123 image.php:154
+#: index.php:39 index.php:63 index.php:89 index.php:111 index.php:134
+#: search.php:36 search.php:62 search.php:90 search.php:115 search.php:144
+msgid "Previous page"
+msgstr "Page précédente"
+
+#: archive.php:39 archive.php:68 archive.php:99 archive.php:135 archive.php:167
+#: image.php:39 image.php:67 image.php:97 image.php:124 image.php:155
+#: index.php:40 index.php:64 index.php:90 index.php:112 index.php:135
+#: search.php:37 search.php:63 search.php:91 search.php:116 search.php:145
+msgid "Next page"
+msgstr "Page suivante"
+
+#: archive.php:40 archive.php:69 archive.php:100 archive.php:136
+#: archive.php:168 image.php:40 image.php:68 image.php:98 image.php:125
+#: image.php:156 index.php:41 index.php:65 index.php:91 index.php:113
+#: index.php:136 search.php:38 search.php:64 search.php:92 search.php:117
+#: search.php:146
+msgid "page"
+msgstr "page"
+
+#: comments.php:28
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Une réflexion sur & ldquo;% s & rdquo;"
+
+#: comments.php:38
+msgid "comments title"
+msgstr "titre des commentaires"
+
+#: comments.php:68
+msgid "Comments are closed"
+msgstr "Les commentaires sont fermés"
+
+#: footer.php:51
+msgid "By Themeshopy"
+msgstr "Par Themeshopy"
+
+#: footer.php:57 footer.php:59 footer.php:61
+msgid "Scroll to Top"
+msgstr "Faites défiler vers le haut"
+
+#: functions.php:33
+msgid "Primary Menu"
+msgstr "Menu primaire"
+
+#: functions.php:76
+msgid ""
+"Thank you for choosing ThemeShopy. We are sincerely obliged to offer our "
+"best services to you. Please proceed towards welcome page and give us the "
+"privilege to serve you."
+msgstr ""
+"Merci d'avoir choisi ThemeShopy. Nous sommes sincèrement obligés de vous "
+"offrir nos meilleurs services. Veuillez vous diriger vers la page d'accueil "
+"et donnez-nous le privilège de vous servir."
+
+#: functions.php:77
+msgid "Click here..."
+msgstr "Click here..."
+
+#: functions.php:84
+msgid "Blog Sidebar"
+msgstr "Barre latérale du blog"
+
+#: functions.php:85 functions.php:95
+msgid "Appears on blog page sidebar"
+msgstr "Apparaît dans la barre latérale de la page de blog"
+
+#: functions.php:94
+msgid "Page Sidebar"
+msgstr "Barre latérale de la page"
+
+#: functions.php:104
+msgid "Third Column Sidebar"
+msgstr "Barre latérale de la troisième colonne"
+
+#: functions.php:105
+msgid "Appears on page sidebar"
+msgstr "Apparaît dans la barre latérale de la page"
+
+#: functions.php:117
+msgid "Footer Nav"
+msgstr "Nav du pied de page"
+
+#: functions.php:128
+msgid "Shop Page Sidebar"
+msgstr "Barre latérale de la page Boutique"
+
+#: functions.php:138
+msgid "Single Product Page Sidebar"
+msgstr "Barre latérale de page de produit unique"
+
+#: functions.php:129 functions.php:139
+msgid "Appears on shop page"
+msgstr "Apparaît sur la page de la boutique"
+
+#: functions.php:311
+msgid "Education WordPress Theme."
+msgstr "Thème WordPress pour l'éducation."
+
+#: header.php:32
+msgid "Skip to content"
+msgstr "Aller au contenu"
+
+#: header.php:59
+msgid "MY ACCOUNT"
+msgstr "MON COMPTE"
+
+#: header.php:70
+msgid "Open Menu"
+msgstr "Ouvrir le menu"
+
+#: no-results.php:11 customizer.php:1525
+msgid "Nothing Found"
+msgstr "rien n'a été trouvé"
+
+#: no-results.php:14
+msgid "Ready to publish your first post? Get started here"
+msgstr "êtes-vous prêts à publier votre première publication? Commencez ici"
+
+#: no-results.php:16
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords"
+msgstr ""
+"Désolé, mais rien ne correspond à vos termes de recherche. Veuillez "
+"réessayer avec d'autres mots-clés"
+
+#: no-results.php:21
+msgid "Return to Home Page"
+msgstr "Retour à la page d'accueil"
+
+#: search.php:21 search.php:47 search.php:75 search.php:100 search.php:129
+msgid "Results For: %s"
+msgstr "Résultats pour:% s"
+
+#: searchform.php:11
+msgid "Search for:"
+msgstr "Rechercher:"
+
+#: searchform.php:12 searchform.php:14
+msgid "Search"
+msgstr "Chercher"
+
+#: searchform.php:12
+msgid "placeholder"
+msgstr "espace réservé"
+
+#: searchform.php:14
+msgid "submit button"
+msgstr "bouton de soumission"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Les archives"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Meta"
+
+#: template-parts/content-single.php:28 template-parts/content-audio.php:49
+#: template-parts/content-gallery.php:38 template-parts/content-image.php:27
+#: template-parts/content-video.php:48 template-parts/content.php:27
+#: template-parts/grid-layout.php:28
+msgid "0 Comment"
+msgstr "0 commentaire"
+
+#: template-parts/image-layout.php:33
+msgid "Pages:"
+msgstr "Pages:"
+
+#: template-parts/image-layout.php:38
+msgid "Edit"
+msgstr "Éditer"
+
+#: template-parts/image-layout.php:47
+msgid "Parent post link"
+msgstr "Lien de publication parent"
+
+#: single.php:31 single.php:55 single.php:82 single.php:106 single.php:134
+#: template-parts/image-layout.php:47
+msgid "Next"
+msgstr "Suivant"
+
+#: single.php:32 single.php:56 single.php:83 single.php:107 single.php:135
+#: template-parts/image-layout.php:48
+msgid "Next post:"
+msgstr "Prochain article:"
+
+#: single.php:33 single.php:57 single.php:84 single.php:108 single.php:136
+#: template-parts/image-layout.php:50
+msgid "Previous"
+msgstr "Précédent"
+
+#: single.php:34 single.php:58 single.php:85 single.php:109 single.php:137
+#: template-parts/image-layout.php:51
+msgid "Previous post:"
+msgstr "Post précédent:"
+
+#: page-template/custom-front-page:40 template-parts/content-audio.php:66
+#: template-parts/content-gallery.php:55 template-parts/content-image.php:44
+#: template-parts/content-video.php:65 template-parts/content.php:44
+#: template-parts/grid-layout.php:38 customizer.php:1080 customizer.php:1412
+msgid "READ MORE"
+msgstr "LIRE LA SUITE"
+
+#: page-template/custom-front-page:97 customizer.php:1161
+msgid "APPLY NOW"
+msgstr "APPLIQUER MAINTENANT"
+
+#: inc/logo/logo-resizer.php:19
+msgid "Logo Size"
+msgstr "Taille du logo"
+
+#: inc/logo/logo-resizer.php:41
+msgid "Site Title"
+msgstr "Titre du site"
+
+#: inc/logo/logo-resizer.php:50
+msgid "Site Title Size option"
+msgstr "Option Taille du titre du site"
+
+#: inc/logo/logo-resizer.php:67
+msgid "Tagline"
+msgstr "Slogan"
+
+#: inc/logo/logo-resizer.php:76
+msgid "Site Tagline Size option"
+msgstr "Option Taille du slogan du site"
+
+#: customizer.php:20
+msgid "Theme Settings"
+msgstr "Réglage des thèmes"
+
+#: customizer.php:21
+msgid "Description of what this panel does."
+msgstr "Description de ce que fait ce panneau."
+
+#: customizer.php:121
+msgid "Typography"
+msgstr "Typographie"
+
+#: customizer.php:132
+msgid "Paragraph Color"
+msgstr "Couleur du paragraphe"
+
+#: customizer.php:146
+msgid "Paragraph Fonts"
+msgstr "Polices de paragraphe"
+
+#: customizer.php:156
+msgid "Paragraph Font Size"
+msgstr "Taille de la police du paragraphe"
+
+#: customizer.php:168
+msgid "\"a\" Tag Color"
+msgstr "Couleur de la balise \"a\""
+
+#: customizer.php:182
+msgid "\"a\" Tag Fonts"
+msgstr "Polices des balises \"a\""
+
+#: customizer.php:193
+msgid "\"li\" Tag Color"
+msgstr "Couleur du tag \"li\""
+
+#: customizer.php:207
+msgid "\"li\" Tag Fonts"
+msgstr "Polices des balises \"li\""
+
+#: customizer.php:218
+msgid "H1 Color"
+msgstr "Couleur H1"
+
+#: customizer.php:232
+msgid "H1 Fonts"
+msgstr "Polices H1"
+
+#: customizer.php:243
+msgid "H1 Font Size"
+msgstr "Taille de police H1"
+
+#: customizer.php:255
+msgid "h2 Color"
+msgstr "Couleur h2"
+
+#: customizer.php:269
+msgid "h2 Fonts"
+msgstr "Polices h2"
+
+#: customizer.php:280
+msgid "h2 Font Size"
+msgstr "Taille de la police h2"
+
+#: customizer.php:292
+msgid "h3 Color"
+msgstr "couleur h3"
+
+#: customizer.php:306
+msgid "h3 Fonts"
+msgstr "Polices h3"
+
+#: customizer.php:317
+msgid "h3 Font Size"
+msgstr "Taille de la police h3"
+
+#: customizer.php:329
+msgid "h4 Color"
+msgstr "h4 Couleur"
+
+#: customizer.php:343
+msgid "h4 Fonts"
+msgstr "Polices h4"
+
+#: customizer.php:354
+msgid "h4 Font Size"
+msgstr "h4 Font Size"
+
+#: customizer.php:366
+msgid "h5 Color"
+msgstr "couleur h5"
+
+#: customizer.php:380
+msgid "h5 Fonts"
+msgstr "Polices h5"
+
+#: customizer.php:391
+msgid "h5 Font Size"
+msgstr "Taille de la police h5"
+
+#: customizer.php:403
+msgid "h6 Color"
+msgstr "h6 Couleur"
+
+#: customizer.php:417
+msgid "h6 Fonts"
+msgstr "Polices h6"
+
+#: customizer.php:428
+msgid "h6 Font Size"
+msgstr "Taille de la police h6"
+
+#: customizer.php:440
+msgid "Background Type"
+msgstr "Type d'arrière-plan"
+
+#: customizer.php:443
+msgid "With Background"
+msgstr "Avec fond"
+
+#: customizer.php:444
+msgid "Transparent Background"
+msgstr "Arrière-plan transparent"
+
+#: customizer.php:455
+msgid "Show / Hide Related Product"
+msgstr "Afficher / masquer le produit associé"
+
+#: customizer.php:465
+msgid "Show / Hide Product Border"
+msgstr "Afficher / masquer la bordure du produit"
+
+#: customizer.php:475
+msgid "Display Product Per Columns"
+msgstr "Afficher le produit par colonnes"
+
+#: customizer.php:491
+msgid "Display Product Per Page"
+msgstr "Afficher le produit par page"
+
+#: customizer.php:501
+msgid "Top Bottom Product Padding"
+msgstr "Rembourrage de produit de haut en bas"
+
+#: customizer.php:516
+msgid "Right Left Product Padding"
+msgstr "Rembourrage produit gauche gauche"
+
+#: customizer.php:531
+msgid "Product Border Radius"
+msgstr "Rayon de la bordure du produit"
+
+#: customizer.php:546
+msgid "Product Box Shadow"
+msgstr "Boîte de produit Shadow"
+
+#: customizer.php:562
+msgid "Woocommerce Products Navigation"
+msgstr "Navigation des produits Woocommerce"
+
+#: customizer.php:564
+msgid "Yes"
+msgstr "Oui"
+
+#: customizer.php:565
+msgid "No"
+msgstr "Non"
+
+#: customizer.php:571
+msgid "Product Button Settings"
+msgstr "Paramètres du bouton du produit"
+
+#: customizer.php:581
+msgid "Product Button Top Bottom Padding"
+msgstr "Rembourrage du haut du bas du bouton du produit"
+
+#: customizer.php:597
+msgid "Product Button Right Left Padding"
+msgstr "Bouton de produit Rembourrage gauche gauche"
+
+#: customizer.php:612
+msgid "Product Button Border Radius"
+msgstr "Rayon de la bordure du bouton du produit"
+
+#: customizer.php:622
+msgid "Product Sale Button Settings"
+msgstr "Paramètres du bouton de vente de produits"
+
+#: customizer.php:633
+msgid "Product Sale Button Alignment"
+msgstr "Alignement des boutons de vente de produits"
+
+#: customizer.php:636 customizer.php:1009 customizer.php:1616
+#: customizer.php:1671
+msgid "Right"
+msgstr "Droit"
+
+#: customizer.php:637 customizer.php:1008 customizer.php:1615
+#: customizer.php:1670
+msgid "Left"
+msgstr "La gauche"
+
+#: customizer.php:646
+msgid "Product Sale Button Border Radius"
+msgstr "Rayon de bordure de bouton de vente de produit"
+
+#: customizer.php:661
+msgid "Product Sale Button Font Size"
+msgstr "Taille de la police du bouton de vente de produit"
+
+#: customizer.php:674
+msgid "Theme Color Option"
+msgstr "Option de couleur du thème"
+
+#: customizer.php:683
+msgid "One can change complete theme color on just one click."
+msgstr "On peut changer la couleur complète du thème en un seul clic."
+
+#: customizer.php:690
+msgid "Layout Settings"
+msgstr "Paramètres de mise en page"
+
+#: customizer.php:701
+msgid "Show / Hide Preloader"
+msgstr "Afficher / masquer le préchargeur"
+
+#: customizer.php:710
+msgid "Preloader Background Color"
+msgstr "Couleur d'arrière-plan du préchargeur"
+
+#: customizer.php:721
+msgid "Show / Hide Shop Page Sidebar"
+msgstr "Afficher / masquer la barre latérale de la page Boutique"
+
+#: customizer.php:731
+msgid "Show / Hide Single Product Page Sidebar"
+msgstr "Afficher / masquer la barre latérale d'une seule page de produit"
+
+#: customizer.php:742
+msgid "Change Layouts"
+msgstr "Modifier les mises en page"
+
+#: customizer.php:745 customizer.php:761 customizer.php:776
+msgid "Left Sidebar"
+msgstr "Barre latérale de gauche"
+
+#: customizer.php:746 customizer.php:762 customizer.php:777
+msgid "Right Sidebar"
+msgstr "Barre latérale droite"
+
+#: customizer.php:747 customizer.php:763 customizer.php:778
+msgid "One Column"
+msgstr "Одна колонка"
+
+#: customizer.php:748
+msgid "Grid Layout"
+msgstr "Disposition de la grille"
+
+#: customizer.php:758
+msgid "Single Page Layouts"
+msgstr "Mises en page sur une seule page"
+
+#: customizer.php:773
+msgid "Single Post Layouts"
+msgstr "Mises en page à un seul message"
+
+#: customizer.php:788
+msgid "Container Box"
+msgstr "Boîte de conteneur"
+
+#: customizer.php:789
+msgid "Here you can change the Width layout. "
+msgstr "Ici, vous pouvez modifier la disposition de la largeur."
+
+#: customizer.php:792
+msgid "Default"
+msgstr "Défaut"
+
+#: customizer.php:793
+msgid "Container"
+msgstr "Récipient"
+
+#: customizer.php:794
+msgid "Box Container"
+msgstr "Conteneur de boîte"
+
+#: customizer.php:800
+msgid "Button Option"
+msgstr "Option de bouton"
+
+#: customizer.php:809
+msgid "Top and Bottom Padding"
+msgstr "Rembourrage supérieur et inférieur"
+
+#: customizer.php:824
+msgid "Left and Right Padding"
+msgstr "Rembourrage gauche et droit"
+
+#: customizer.php:839
+msgid "Button Border Radius"
+msgstr "Rayon de la bordure du bouton"
+
+#: customizer.php:851
+msgid "Topbar Section"
+msgstr "Section de la barre supérieure"
+
+#: customizer.php:852
+msgid "Add topbar content"
+msgstr "Ajouter du contenu dans la barre supérieure"
+
+#: customizer.php:864
+msgid "Show / Hide Topbar"
+msgstr "Afficher / masquer la barre supérieure"
+
+#: customizer.php:875 customizer.php:1219
+msgid "Sticky Header"
+msgstr "En-tête collant"
+
+#: customizer.php:884
+msgid "Sticky Header Padding"
+msgstr "Remplissage d'en-tête collant"
+
+#: customizer.php:899
+msgid "Mail Address"
+msgstr "Adresse mail"
+
+#: customizer.php:909
+msgid "Phone Number"
+msgstr "Numéro de téléphone"
+
+#: customizer.php:919
+msgid "Timing Text"
+msgstr "Texte de chronométrage"
+
+#: customizer.php:926
+msgid "Slider Settings"
+msgstr "Paramètres du curseur"
+
+#: customizer.php:937
+msgid "Show / Hide slider"
+msgstr "Afficher / masquer le curseur"
+
+#: customizer.php:947
+msgid "Show / Hide Slider Title"
+msgstr "Afficher / masquer le titre du curseur"
+
+#: customizer.php:957
+msgid "Show / Hide Slider Content"
+msgstr "Afficher / masquer le contenu du curseur"
+
+#: customizer.php:968
+msgid "Select Slide Image Page"
+msgstr "Sélectionnez la page d'image de la diapositive"
+
+#: customizer.php:969
+msgid "Size of image should be 1600 x 633"
+msgstr "La taille de l'image doit être de 1600 x 633"
+
+#: customizer.php:981
+msgid "Home Page Slider Overlay"
+msgstr "Superposition du curseur de la page d'accueil"
+
+#: customizer.php:982
+msgid "This option will add colors over the slider."
+msgstr "Cette option ajoutera des couleurs sur le curseur."
+
+#: customizer.php:991
+msgid "Home Page Slider Overlay Color"
+msgstr "Couleur de superposition du curseur de la page d'accueil"
+
+#: customizer.php:993
+msgid ""
+"It will add the color overlay of the slider. To make it transparent, use the "
+"below option."
+msgstr ""
+"Cela ajoutera la superposition de couleur du curseur. Pour le rendre "
+"transparent, utilisez l'option ci-dessous."
+
+#: customizer.php:1004
+msgid "Slider Content Alignment"
+msgstr "Alignement du contenu du curseur"
+
+#: customizer.php:1007 customizer.php:1617 customizer.php:1672
+msgid "Center"
+msgstr "Center"
+
+#: customizer.php:1019
+msgid "Slider Excerpt length"
+msgstr "Longueur de l'extrait du curseur"
+
+#: customizer.php:1036
+msgid "Slider Image Opacity"
+msgstr "Opacité de l'image du curseur"
+
+#: customizer.php:1059
+msgid "Slider Speed Option"
+msgstr "Option de vitesse du curseur"
+
+#: customizer.php:1070
+msgid "550"
+msgstr "cinq cent cinquante"
+
+#: customizer.php:1074
+msgid "Slider Image Height"
+msgstr "Hauteur de l'image du curseur"
+
+#: customizer.php:1084
+msgid "Slider Button"
+msgstr "Bouton curseur"
+
+#: customizer.php:1094
+msgid "Top Bottom Slider Content Space"
+msgstr "Espace de contenu du curseur supérieur inférieur"
+
+#: customizer.php:1109
+msgid "Left Right Slider Content Space"
+msgstr "Espace de contenu du curseur gauche droite"
+
+#: customizer.php:1121
+msgid "Popular Courses"
+msgstr "Cours populaires"
+
+#: customizer.php:1122
+msgid "Add section below."
+msgstr "Ajoutez une section ci-dessous."
+
+#: customizer.php:1131
+msgid "Section Title"
+msgstr "Section titre"
+
+#: customizer.php:1155
+msgid "Select Category to display post"
+msgstr "Sélectionnez la catégorie pour afficher le message"
+
+#: customizer.php:1156
+msgid "Size of image should be 370 x 240"
+msgstr "La taille de l'image doit être de 370 x 240"
+
+#: customizer.php:1165
+msgid "Category Post Button text"
+msgstr "Texte du bouton de publication de la catégorie"
+
+#: customizer.php:1173
+msgid "404 Page"
+msgstr "Page 404"
+
+#: customizer.php:1182
+msgid "404 Page Title"
+msgstr "Titre de la page 404"
+
+#: customizer.php:1192
+msgid "404 Page Content"
+msgstr "Contenu de la page 404"
+
+#: customizer.php:1202
+msgid "404 Page Button"
+msgstr "Bouton de page 404"
+
+#: customizer.php:1209
+msgid "Responsive Setting"
+msgstr "Cadre réactif"
+
+#: customizer.php:1229
+msgid "Slider"
+msgstr "Glissière"
+
+#: customizer.php:1239
+msgid "Scroll To Top"
+msgstr "Faire défiler vers le haut"
+
+#: customizer.php:1249
+msgid "Sidebar"
+msgstr "Barre latérale"
+
+#: customizer.php:1259
+msgid "Preloader"
+msgstr "Préchargeur"
+
+#: customizer.php:1265
+msgid "Blog Page Settings"
+msgstr "Paramètres de la page de blog"
+
+#: customizer.php:1275
+msgid "Post Date"
+msgstr "Date de publication"
+
+#: customizer.php:1285
+msgid "Comments"
+msgstr "commentaires"
+
+#: customizer.php:1295
+msgid "Author"
+msgstr "Auteur"
+
+#: customizer.php:1305
+msgid "Time"
+msgstr "Temps"
+
+#: customizer.php:1315
+msgid "Blog Post Image"
+msgstr "Image de l'article de blog"
+
+#: customizer.php:1325
+msgid "Single Post Tags"
+msgstr "Balises à message unique"
+
+#: customizer.php:1335
+msgid "Single Post Image"
+msgstr "Image de message unique"
+
+#: customizer.php:1344
+msgid "Blog Post Image Border Radius"
+msgstr "Rayon de la bordure de l'image de l'article de blog"
+
+#: customizer.php:1359
+msgid "Blog Post Image Shadow"
+msgstr "Ombre d'image d'article de blog"
+
+#: customizer.php:1375
+msgid "Post Description Length"
+msgstr "Longueur de la description du message"
+
+#: customizer.php:1378
+msgid "No Content"
+msgstr "Pas de contenu"
+
+#: customizer.php:1379
+msgid "Excerpt Content"
+msgstr "Contenu extrait"
+
+#: customizer.php:1380
+msgid "Full Content"
+msgstr "Contenu complet"
+
+#: customizer.php:1389
+msgid "Excerpt length"
+msgstr "Longueur de l'extrait"
+
+#: customizer.php:1401
+msgid "..."
+msgstr "..."
+
+#: customizer.php:1405
+msgid "Post Excerpt Indicator Option"
+msgstr "Option d'indicateur de post-extrait"
+
+#: customizer.php:1416
+msgid "Add Button Text"
+msgstr "Ajouter le texte du bouton"
+
+#: customizer.php:1426
+msgid "Meta Box Separator"
+msgstr "Séparateur de méta-boîtes"
+
+#: customizer.php:1428
+msgid "Add Meta Separator. e.g.: \"|\", \"/\", etc."
+msgstr "Ajoutez un méta-séparateur. par exemple: \"|\", \"/\", etc."
+
+#: customizer.php:1441
+msgid "Display Blog Page Post :"
+msgstr "Afficher l'article sur la page de blog:"
+
+#: customizer.php:1444
+msgid "In Box"
+msgstr "En boîte"
+
+#: customizer.php:1445
+msgid "Without Box"
+msgstr "Sans boîte"
+
+#: customizer.php:1455
+msgid "Pagination in Blog Page"
+msgstr "Pagination dans la page de blog"
+
+#: customizer.php:1465
+msgid "Single Post Pagination"
+msgstr "Pagination d'un seul article"
+
+#: customizer.php:1475
+msgid "Related Post"
+msgstr "Article similaire"
+
+#: customizer.php:1485
+msgid "Related Post Taxonomies"
+msgstr "Taxonomies de publication connexes"
+
+#: customizer.php:1488
+msgid "Categories"
+msgstr "Catégories"
+
+#: customizer.php:1489
+msgid "Tags"
+msgstr "Mots clés"
+
+#: customizer.php:1494
+msgid "Related Posts"
+msgstr "Articles Similaires"
+
+#: customizer.php:1498
+msgid "Related Post Title"
+msgstr "Titre du poste associé"
+
+#: customizer.php:1508
+msgid "Related Post Number"
+msgstr "Numéro de poste associé"
+
+#: customizer.php:1520
+msgid "No Result Found"
+msgstr "Aucun résultat trouvé"
+
+#: customizer.php:1529
+msgid "No Result Found Title"
+msgstr "Aucun résultat trouvé Titre"
+
+#: customizer.php:1535
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Désolé, mais rien ne correspond à vos termes de recherche. Veuillez "
+"réessayer avec d'autres mots-clés."
+
+#: customizer.php:1539
+msgid "No Result Found Content"
+msgstr "Aucun résultat trouvé contenu"
+
+#: customizer.php:1550
+msgid "No Result search"
+msgstr "Aucune recherche de résultat"
+
+#: customizer.php:1556
+msgid "Footer Text"
+msgstr "Texte de pied de page"
+
+#: customizer.php:1567
+msgid "Footer widget area"
+msgstr "Zone de widget de pied de page"
+
+#: customizer.php:1569
+msgid ""
+"Select the number of widget areas you want in the footer. After that, go to "
+"Appearance > Widgets and add your widgets."
+msgstr ""
+"Sélectionnez le nombre de zones de widget que vous souhaitez dans le pied de "
+"page. Après cela, allez dans Apparence> Widgets et ajoutez vos widgets."
+
+#: customizer.php:1571
+msgid "One"
+msgstr "Un"
+
+#: customizer.php:1572
+msgid "Two"
+msgstr "Deux"
+
+#: customizer.php:1573
+msgid "Three"
+msgstr "Trois"
+
+#: customizer.php:1574
+msgid "Four"
+msgstr "Quatre"
+
+#: customizer.php:1583
+msgid "Footer Widget Background Color"
+msgstr "Couleur d'arrière-plan du widget de pied de page"
+
+#: customizer.php:1592
+msgid "Footer Widget Background Image"
+msgstr "Image d'arrière-plan du widget de pied de page"
+
+#: customizer.php:1601
+msgid "Copyright Text"
+msgstr "Texte du droit d'auteur"
+
+#: customizer.php:1612
+msgid "Copyright Text Alignment "
+msgstr "Alignement du texte du droit d'auteur"
+
+#: customizer.php:1626
+msgid "Copyright Font Size"
+msgstr "Taille de la police des droits d'auteur"
+
+#: customizer.php:1641
+msgid "Copyright Padding"
+msgstr "Remplissage des droits d'auteur"
+
+#: customizer.php:1657
+msgid "Show / Hide Scroll Top Button"
+msgstr "Afficher / masquer le bouton supérieur de défilement"
+
+#: customizer.php:1667
+msgid "Scroll Back to Top Position"
+msgstr "Revenir à la position supérieure"
+
+#: customizer.php:1681
+msgid "Scroll Icon Font Size"
+msgstr "Taille de police de l'icône de défilement"
+
+#: customizer.php:1771
+msgid "Education Pro Theme"
+msgstr "Thème Education Pro"
+
+#: customizer.php:1772
+msgid "Go Pro"
+msgstr "Go Pro"

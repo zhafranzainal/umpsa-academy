@@ -1,0 +1,57 @@
+.banner-section ,.courses-section {
+    height: auto;
+    width: auto;
+}
+.banner-section img, .courses-section img {
+    width: 100% !important;
+}
+.banner-section-btn a {
+    text-decoration: none !important;
+    border: 2px solid #cc3333;
+}
+.banner-section-btn:hover a.wp-block-button__link {
+    border-color: #cc3333;
+    color: #cc3333;
+    background: transparent !important;
+}
+.course-content-box {
+    border-right: 2px solid #cc3333;
+    color: white;
+    font-size: 1em;
+    overflow: hidden;
+    position: absolute;
+    bottom: 2em;
+    left: 0em;
+    right: 4em;
+    transition: 0.6s;
+}
+.course-box-btn a {
+    text-decoration: none !important;
+    color:#cc3333 !important;
+}
+.course-content-box .course-box-btn, .course-content-box p {
+    display: none;
+    transition: 0.6s;
+}   
+.course-box:hover .course-content-box .course-box-btn, .course-box:hover .course-content-box p {
+    display: block;
+}
+.courses-section h2::before {
+    content: "\f02d";
+    font-family: 'Font Awesome 5 Free';
+    font-weight: 900;
+    padding: 11px;
+    color:#cc3333;
+    font-size: 38px;
+}
+@media  screen and (max-width:992px) and (min-width:767px) {
+    .course-boxes.wp-block-columns {
+     flex-wrap: nowrap !important;
+    }
+    .course-content-box {
+        bottom: 0.4em !important;
+    }
+    .course-content-box h3 {
+        font-size: 18px !important;
+    }
+}
