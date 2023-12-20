@@ -3,8 +3,8 @@ Contributors: sellerthemes
 Tags: homepage, companion, ecommerce, woocommerce, Widget
 Requires at least: 6.0 or higher
 Tested up to: 6.4.1
-Requires PHP: 5.7
-Stable tag: 5.7
+Requires PHP: 5.8
+Stable tag: 5.8
 License: GPLv3 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.en.html
 
@@ -74,6 +74,12 @@ Yes, This plugin is specially make for Seller Themes. You can install theme for 
 - [Express Store](https://wordpress.org/themes/express-store/)
 - [Storefit]
 
+== Screenshots ==
+
+1. Storely
+2. Aromatic
+3. Retailsy
+
 == License ==
 
 eCommerce Companion WordPress plugin, Copyright (C) 2023 Seller Themes
@@ -81,6 +87,9 @@ eCommerce Companion WordPress plugin is licensed under the GPL3 (https://www.gnu
 
 
 == Changelog ==
+
+= 5.8 =
+* Readme Updated
 
 = 5.7 =
 * Tested WP 6.4.1 Compatibility

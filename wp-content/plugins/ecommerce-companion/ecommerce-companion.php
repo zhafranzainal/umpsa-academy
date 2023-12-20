@@ -2,7 +2,7 @@
 /*
 Plugin Name: eCommerce Companion
 Description: eCommerce Companion is created for Seller Themes. The plugin set frontpage sections for navigation, info, slider, category, products & blog. It has come with single click installation and make your beautifully eCommerce website. It allow edit customizer settings for the theme. Extend your theme functionalities with one click import & enjoy free stock images. Visit our website and find theme as you need. https://www.sellerthemes.com/themes
-Version: 5.7
+Version: 5.8
 Requires: 4.6 or higher
 Author: sellerthemes
 Author URI: https://sellerthemes.com
